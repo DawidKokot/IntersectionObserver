@@ -1,0 +1,25 @@
+{
+    "name": "compiler",
+    "version": "1.0.0",
+    "description": "compile scss to css",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Kevin Powell",
+    "license": "MIT",
+    "devDependencies": {
+        "browserslist": "^4.11.1",
+        "gulp": "^4.0.2",
+        "gulp-autoprefixer": "^7.0.1",
+        "gulp-rename": "^2.0.0",
+        "gulp-sass": "^4.0.2",
+        "gulp-sourcemaps": "^2.6.5"
+    },
+    "keywords": [
+        "scss"
+    ],
+    "browserslist": [
+        ">0.1%"
+    ]
+}
