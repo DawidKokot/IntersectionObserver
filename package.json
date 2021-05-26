@@ -9,7 +9,7 @@
     "author": "Kevin Powell",
     "license": "MIT",
     "devDependencies": {
-        "browserslist": "^4.11.1",
+        "browserslist": "^4.16.5",
         "gulp": "^4.0.2",
         "gulp-autoprefixer": "^7.0.1",
         "gulp-rename": "^2.0.0",
